@@ -1,0 +1,5 @@
+{
+  "name": "Ailawyer",
+  "description": "An AI-powered application providing professional, free legal consultation and document drafting services for South Korean law. It features user authentication, chat history, and continuous learning capabilities.",
+  "requestFramePermissions": []
+}
